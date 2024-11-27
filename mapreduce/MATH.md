@@ -1,4 +1,4 @@
-# **Map, Shuffle e Reduce
+# **Map, Shuffle e Reduce**
 
 O paradigma **MapReduce** é uma técnica matemática e computacional poderosa para processamento paralelo e distribuído de grandes volumes de dados. Esta explicação apresenta os fundamentos matemáticos de cada etapa do MapReduce — **Map**, **Shuffle** e **Reduce** — detalhadamente.
 
